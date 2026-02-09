@@ -9,6 +9,11 @@ This project is a prototype clinical decision support tool designed to demonstra
 
 The tool aims to support healthcare teams by making subtle risk patterns more visible and actionable, without replacing clinical judgment or local protocols.
 
+## Live Demo
+A live demonstration of the prototype is available here:
+
+➡️ https://gurkancamok.github.io/clinical-safety-risk-flag-tool/
+
 ---
 
 ## Key Features
