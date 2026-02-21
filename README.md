@@ -25,9 +25,11 @@ A live demonstration of the prototype is available here:
 
 ---
 
-## Intended Use
-This prototype is developed for innovation, demonstration, and educational purposes only.  
-It is **not intended for direct clinical use** or to replace professional judgment.
+## Legal & Clinical Notice  
+
+This project is a digital health innovation developed to support clinical decision-making.  
+It is intended for research and demonstration purposes only.  
+Final clinical decisions remain the responsibility of qualified healthcare professionals.
 
 ---
 
